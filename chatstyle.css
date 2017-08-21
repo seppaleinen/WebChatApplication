@@ -1,0 +1,27 @@
+body{
+  margin-top:30px;
+}
+#messageArea{
+  display: none;
+}
+
+#usersOnline{
+  background: #b2d600;
+  border:none;
+}
+
+#chatWell{
+  margin-bottom: 0px;
+}
+
+#onlineUserButton{
+  background-color: green;
+}
+
+.modal-content{
+  background: #b2d600;
+}
+
+img[src=""] {
+   display: none;
+}

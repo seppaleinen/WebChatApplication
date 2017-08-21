@@ -1,0 +1,15 @@
+ {
+  "name": "webchatapplication",
+  "version": "1.0.0",
+  "description": "Chat for bookpage",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tim Swanljung",
+  "license": "ISC",
+  "dependencies":{
+    "socket.io":"*",
+    "express":"*"
+  }
+}
