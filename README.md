@@ -1,7 +1,7 @@
 # WebChatApplication
 A webchat using NodeJS and SocketIO and Giphy.
 
-Project created on a mac.
+Project created on a mac.<br>
 1: Node is required, so install that if you dont have it. I used v8.4.0 while developing.
 2: Go to the source folder with the terminal and start the Node server by typing "node server" inside the terminal.
 3: Go to localhost:3000 in your browser to access the page.
