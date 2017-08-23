@@ -1,4 +1,4 @@
- {
+{
   "name": "webchatapplication",
   "version": "1.0.0",
   "description": "Chat for bookpage",
@@ -8,8 +8,8 @@
   },
   "author": "Tim Swanljung",
   "license": "ISC",
-  "dependencies":{
-    "socket.io":"*",
-    "express":"*"
+  "dependencies": {
+    "socket.io": "*",
+    "express": "*"
   }
 }
